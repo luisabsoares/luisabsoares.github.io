@@ -42,3 +42,5 @@ Tenho interesse em macroeconomia, economia aplicada, econometria e análise de d
 ---
 
 *Obrigado pela visita!*
+
+[Clique para me enviar um e-mail](mailto:luisabsoares@gmail.com)
