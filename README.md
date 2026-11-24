@@ -1,6 +1,4 @@
-# Luís Antônio Busmeyer Soares
-
-**Economista | Mestrando em Economia | Coimbra, Portugal**
+**Economista / Mestrando em Economia / Coimbra, Portugal**
 
 Bem-vindo(a) ao meu espaço acadêmico no GitHub!
 
