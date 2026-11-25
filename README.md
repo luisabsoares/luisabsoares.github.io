@@ -29,9 +29,9 @@ Tenho interesse em macroeconomia, economia aplicada, econometria e análise de d
 
 ## 📚 Produção Acadêmica
 
-- [Inflação por faixa de renda no Brasil: evolução do diferencial, 2020-2026](https://github.com/luisabsoares/Econometria_Intermedia_FEUC/blob/main/Relatorio_Final_Inflacao_por_Faixa_de_Renda_LaTeX.pdf) - 2026
-- [Monografia de Graduação — Repositório Institucional da UFPR](https://hdl.handle.net/1884/84180) - 2023
-- [Econometria — Análise e aplicação](https://rpubs.com/luisabsoares/econometria) - 2022
+- 2026, <a     href="https://github.com/luisabsoares/Econometria_Intermedia_FEUC/blob/main/Relatorio_Final_Inflacao_por_Faixa_de_Renda_LaTeX.pdf" target="_blank" rel="noopener noreferrer">Inflação por faixa de renda no Brasil: evolução do diferencial, 2020-2026</a>
+- 2023, <a href="https://hdl.handle.net/1884/84180" target="_blank" rel="noopener noreferrer">Monografia de Graduação — Repositório Institucional da UFPR</a>
+- 2022, <a href="https://rpubs.com/luisabsoares/econometria" target="_blank" rel="noopener noreferrer">Trabalho de conclusão da disciplina de Econometria, Graduação</a>
   
 ## 💻 Interesses atuais
 
