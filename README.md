@@ -39,9 +39,10 @@ Tenho interesse em macroeconomia, economia aplicada, econometria e análise de d
 - Power BI (iniciante)
 - Linguagem Stata, R, LaTeX (iniciante)
 - Inglês Iniciante A2 (em desenvolvimento)
-- <a href="[https://exemplo.com](https://github.com/luisabsoares)" target="_blank" rel="noopener noreferrer">Acesse minha página no GitHub</a>
+- <a href="https://github.com/luisabsoares" target="_blank" rel="noopener noreferrer">Acesse minha página no GitHub</a>
 
 ---
 
 *Obrigado pela visita!*
+
 <a href="mailto:luisabsoares@gmail.com" target="_blank" rel="noopener noreferrer">Me mande um e-mail</a>
